@@ -8,7 +8,7 @@
   * Missing felt pad
   * Loose strands/windowing
 ## 2. Break tabs
-## 3. Determine cassette type
+## 3. [Determine cassette type](https://www.walkman-archive.com/articles/cassette-walkman-faq-01.html)
   * Normal: select "Type I" in deck
   * Chrome or metal: select "Type II" or "Type IV" in deck
 ## 4. Determine noise reduction
@@ -17,13 +17,13 @@
   * "Dolby C": Select Dolby C
   * "DBX": Do not digitize
 ## 5. Wind tape
-## 6. Generate Archival Object in ArchivesSpace
-## 7. Clean cassette deck
+## 6. [Create Archival Object in ArchivesSpace](https://rs4.reuther.wayne.edu/SuperManual/02_arrangement/02_04_archival_objects/#:~:text=A%20%22child%22%20Archival%20Object%20will,Objects%20to%20a%20given%20record.)
+## 7. [Clean cassette deck](https://www.instructables.com/How-To-Clean-a-Cassette-Recorder/)
   1. Remove cassette cover
   2. Use qtip dipped in distilled water to clean pinch rollers
   3. Use qtip dipped in alcohol to clean head **in the direction of tape travel**
   4. Use qtip dipped in alcohol to clean capstan(s)
-## 8. Create new file in Adobe Audition
+## 8. [Create new file in Adobe Audition](https://helpx.adobe.com/pl/audition/using/creating-opening-files.html)
   * Name file according to this pattern: `CollCode_b000_f000_archObj00000_[YYYY-MM-DD or other text].wav`
   E.g. `DCHA_b001_f001_archObj56731_1976-05-22FieldNotes.wav`)
   * WAVE file, Linear PCM, 96000 Hz, stereo
@@ -33,12 +33,15 @@
     (e.g. `https://centroarchives.hunter.cuny.edu/repositories/2/archival_objects/56731`)
 ## 9. Record
   * Open Window > phase analysis
-    * choose "phase wheel" at bottom left  
+    * choose [phase wheel](https://www.adobe.com/learn/audition/web/audition-phase-analysis-cc) at bottom left  
 ## 10. Set levels
   * When levels on deck hit 0 dBVU, it should be around -21 dBFS in Audition
-  (mostly this is preset)
+  * This should be preset, but as follows:
+       * Max output level ondeck
+       * Channel 1 knob at 1PM
+       * Channel 2 know at center
 ## 11. Adjust azimuth
-  * Phase wheel will waver but should be centered for mono
+  * Phase wheel will waver but should be centered as a straight line up for mono programs
   * Stereo program: use your ear by listening to high pitch 
   (e.g. sibilance) and getting maximum high frequency
 ## 12. Record again, with feeling
