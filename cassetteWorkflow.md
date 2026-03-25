@@ -46,9 +46,11 @@
 ## 13. Enter metadata
   * In metadata window, go to BWF tab
   * In "Coding History" field, enter the following:
-    `A=ANALOG,M=mono,T=Nakamichi Cassette Deck 1,
-A=PCM,F=96000,W=24,M=stereo,T=Sound Devices Mix Pre-6,
-` followed by any sound issues you notice **but do not use commas**
+    ```
+    A=ANALOG,M=mono,T=Nakamichi Cassette Deck 1,
+    A=PCM,F=96000,W=24,M=stereo,T=Sound Devices Mix Pre-6
+    ```
+followed by any sound issues you notice **but do not use commas**
 ## 14. Add cue marker for Side B
   * You can pause recording if you want
 ## 15. Finish recording
