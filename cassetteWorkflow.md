@@ -16,9 +16,10 @@
 ## 5. Wind tape
 ## 6. Generate Archival Object in ArchivesSpace
 ## 7. Clean cassette deck
-  1. Use qtip dipped in distilled water to clean pinch rollers
-  2. Use qtip dipped in alcohol to clean head **in the direction of tape travel**
-  3. Use qtip dipped in alcohol to clean capstan(s)
+  1. Remove cassette cover
+  2. Use qtip dipped in distilled water to clean pinch rollers
+  3. Use qtip dipped in alcohol to clean head **in the direction of tape travel**
+  4. Use qtip dipped in alcohol to clean capstan(s)
 ## 8. Create new file in Adobe Audition
   * Name file according to this pattern: `CollCode_b000_f000_archObj00000_[YYYY-MM-DD or other text].wav`
   E.g. `DCHA_b001_f001_archObj56731_1976-05-22FieldNotes.wav`)
