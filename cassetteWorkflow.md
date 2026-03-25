@@ -12,7 +12,10 @@
   * Normal: select "Type I" in deck
   * Chrome or metal: select "Type II" or "Type IV" in deck
 ## 4. Determine noise reduction
-  * "NR", "Dolby", "dbx"
+  * "NR": *Check with supervisor*
+  * "Dolby": Select Dolby B
+  * "Dolby C": Select Dolby C
+  * "DBX": Do not digitize
 ## 5. Wind tape
 ## 6. Generate Archival Object in ArchivesSpace
 ## 7. Clean cassette deck
