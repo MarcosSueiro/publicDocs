@@ -1,2 +1,2 @@
 # publicDocs
-Various documents
+Various documents for general consumption
