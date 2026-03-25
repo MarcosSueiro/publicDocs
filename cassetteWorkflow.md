@@ -1,4 +1,4 @@
-# Cassette workflow
+# Cassette Digitization Workflow
 ### (adapted from [Audio Tape Digitisation Workflow](https://musiikkiarkisto.fi/audio/))
 
 ## 1. Inspect for damage
