@@ -61,5 +61,4 @@ followed by any [sound issues](https://www.avartifactatlas.com/tags.html#audio) 
 ## 14. Add cue marker for Side B
   * You can pause recording if you want
 ## 15. Finish recording
-  * Get rid of long silent packages
-  * Make sure you keep the "Side B" marker
+  * Make sure you keep the "Side B" marker!
