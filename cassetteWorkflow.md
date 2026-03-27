@@ -11,7 +11,7 @@
 ## 3. [Determine cassette type](https://www.walkman-archive.com/articles/cassette-walkman-faq-01.html)
   * Normal: select "Type I" in deck
   * Chrome or metal: select "Type II" or "Type IV" in deck
-## 4. Determine noise reduction
+## 4. Determine [noise reduction](https://www.avartifactatlas.com/artifacts/noise_reduction.html)
   * "NR": *Check with supervisor*
   * "Dolby": Select Dolby B
   * "Dolby C": Select Dolby C
@@ -39,13 +39,13 @@
   * This should be preset, but as follows:
        * Max output level ondeck
        * Channel 1 knob at 1PM
-       * Channel 2 know at center
+       * Channel 2 knob at center
 ## 11. Adjust azimuth
   * Phase wheel will waver but should be centered as a straight line up for mono programs
   * Stereo program: use your ear by listening to high pitch 
   (e.g. sibilance) and getting maximum high frequency
 ## 12. Record again, with feeling
-  * Undo previous recording
+  * **Undo previous recording**
   * Rewind tape
   * Start over
   * Keep an eye on azimuth and adjust as needed
@@ -56,7 +56,7 @@
     A=ANALOG,M=mono,T=Nakamichi Cassette Deck 1,
     A=PCM,F=96000,W=24,M=stereo,T=Sound Devices Mix Pre-6
     ```
-followed by any sound issues you notice **but do not use commas**
+followed by any [sound issues](https://www.avartifactatlas.com/tags.html#audio) you notice **but do not use commas**
 (On first line, if program is in stereo of course enter `M=stereo`)
 ## 14. Add cue marker for Side B
   * You can pause recording if you want
