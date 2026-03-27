@@ -51,13 +51,13 @@
   * Keep an eye on azimuth and adjust as needed
 ## 13. Enter metadata
   * In metadata window, go to BWF tab
-  * In "Coding History" field, enter the following:
+  * In "Coding History" field, enter the following (on first line, if program is in stereo of course enter `M=stereo`):
     ```
     A=ANALOG,M=mono,T=Nakamichi Cassette Deck 1,
     A=PCM,F=96000,W=24,M=stereo,T=Sound Devices Mix Pre-6
     ```
 followed by any [sound issues](https://www.avartifactatlas.com/tags.html#audio) you notice **but do not use commas**
-(On first line, if program is in stereo of course enter `M=stereo`)
+
 ## 14. Add cue marker for Side B
   * You can pause recording if you want
 ## 15. Finish recording
