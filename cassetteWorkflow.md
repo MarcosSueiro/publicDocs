@@ -50,7 +50,7 @@
        * Channel 1 knob (level) at 1PM
        * Channel 2 knob (pan) at center
 ## 11. Adjust azimuth
-  * Phase wheel will waver but should be centered as a straight line up for mono programs
+  * [Phase wheel](https://youtu.be/JF0IofTEii0?t=212&si=PBbAUfiH0fjG7Miu) will waver but should be centered as a straight line up for mono programs
   * Stereo program: use your ear by listening to maximize high pitch 
   (e.g. sibilance) and getting maximum high frequency
 ## 12. Record again, with feeling
