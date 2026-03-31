@@ -19,7 +19,7 @@
   * "Dolby": Select Dolby B
   * "Dolby C": Select Dolby C
   * "DBX": Do not digitize
-## 5. Wind tape
+## 5. Wind tape, then rewind tape
 ## 6. [Create Archival Object in ArchivesSpace](https://rs4.reuther.wayne.edu/SuperManual/02_arrangement/02_04_archival_objects/#:~:text=A%20%22child%22%20Archival%20Object%20will,Objects%20to%20a%20given%20record.)
 ## 7. [Clean cassette deck](https://www.instructables.com/How-To-Clean-a-Cassette-Recorder/)
   1. Remove cassette cover
