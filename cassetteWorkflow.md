@@ -27,25 +27,31 @@
   3. Use qtip dipped in alcohol to clean head **in the direction of tape travel**
   4. Use qtip dipped in alcohol to clean capstan(s)
 ## 8. [Create new file in Adobe Audition](https://helpx.adobe.com/pl/audition/using/creating-opening-files.html)
-  * Name file according to this pattern: `CollCode_b000_f000_archObj00000_[YYYY-MM-DD or other text].wav`
-  E.g. `DCHA_b001_f001_archObj56731_1976-05-22FieldNotes.wav`)
+  * Name file according to this pattern:
+    ```
+    CollCode_b000_f000_archObj00000_[YYYY-MM-DD or other text].wav
+    ```
+    For example,
+    ```
+    DCHA_b001_f001_archObj56731_1976-05-22FieldNotes.wav
+    ```
   * WAVE file, Linear PCM, 96000 Hz, stereo
   * Open Window > metadata
     * choose "RIFF" tab
     * Enter ArchivesSpace URL in "Source supplier" field
     (e.g. `https://centroarchives.hunter.cuny.edu/repositories/2/archival_objects/56731`)
-## 9. Record
+## 9. [Record in Audition](https://helpx.adobe.com/audition/using/recording-audio.html)
   * Open Window > phase analysis
     * choose [phase wheel](https://www.adobe.com/learn/audition/web/audition-phase-analysis-cc) at bottom left  
 ## 10. Set levels
-  * When levels on deck hit 0 dBVU, it should be around -21 dBFS in Audition
+  * When levels on deck hit 0 dBVU, it should be around -20 dBFS in Audition
   * This should be preset, but as follows:
-       * Max output level ondeck
-       * Channel 1 knob at 1PM
-       * Channel 2 knob at center
+       * Max output level on deck
+       * Channel 1 knob (level) at 1PM
+       * Channel 2 knob (pan) at center
 ## 11. Adjust azimuth
   * Phase wheel will waver but should be centered as a straight line up for mono programs
-  * Stereo program: use your ear by listening to high pitch 
+  * Stereo program: use your ear by listening to maximize high pitch 
   (e.g. sibilance) and getting maximum high frequency
 ## 12. Record again, with feeling
   * **Undo previous recording**
@@ -61,7 +67,7 @@
     ```
 followed by any [sound issues](https://www.avartifactatlas.com/tags.html#audio) you notice **but do not use commas**
 
-## 14. Add cue marker for Side B
+## 14. Add [cue marker](https://helpx.adobe.com/audition/using/markers.html) for Side B
   * You can pause recording if you want
 ## 15. Finish recording
   * Make sure you keep the "Side B" marker!
