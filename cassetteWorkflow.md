@@ -21,7 +21,7 @@
   * "DBX": Do not digitize
 ## 5. Wind tape, then rewind tape
   * This is called "exercising" the tape
-  * It helps with [tape pack](https://www.clir.org/pubs/reports/pub54/5premature_degrade/) and print-through(http://www.specsbros.com/preservation-faqs.html#:~:text=A:%20%22Exercising%22%20is%20the,any%20other%20type%20of%20tape.)
+  * It helps with [tape pack](https://www.clir.org/pubs/reports/pub54/5premature_degrade/) and [print-through](http://www.specsbros.com/preservation-faqs.html#:~:text=A:%20%22Exercising%22%20is%20the,any%20other%20type%20of%20tape.)
 ## 6. [Create Archival Object in ArchivesSpace](https://rs4.reuther.wayne.edu/SuperManual/02_arrangement/02_04_archival_objects/#:~:text=A%20%22child%22%20Archival%20Object%20will,Objects%20to%20a%20given%20record.)
 ## 7. [Clean cassette deck](https://www.instructables.com/How-To-Clean-a-Cassette-Recorder/)
   1. Remove cassette cover
