@@ -20,6 +20,8 @@
   * "Dolby C": Select Dolby C
   * "DBX": Do not digitize
 ## 5. Wind tape, then rewind tape
+  * This is called "exercising" the tape
+  * It halps with pack and print-through
 ## 6. [Create Archival Object in ArchivesSpace](https://rs4.reuther.wayne.edu/SuperManual/02_arrangement/02_04_archival_objects/#:~:text=A%20%22child%22%20Archival%20Object%20will,Objects%20to%20a%20given%20record.)
 ## 7. [Clean cassette deck](https://www.instructables.com/How-To-Clean-a-Cassette-Recorder/)
   1. Remove cassette cover
@@ -44,7 +46,8 @@
   * Open Window > phase analysis
     * choose [phase wheel](https://www.adobe.com/learn/audition/web/audition-phase-analysis-cc) at bottom left  
 ## 10. Set levels
-  * When levels on deck hit 0 dBVU, it should be around -20 dBFS in Audition
+  * [Load Preset 1](https://guides.sounddevices.com/mixpre-ii/#h.5st7cduhcazl) in MixPre-6 recorder
+  * When levels on deck hit 0 dBVU on the deck, they should be around -20 dBFS in Audition
   * This should be preset, but as follows:
        * Max output level on deck
        * Channel 1 knob (level) at 1PM
