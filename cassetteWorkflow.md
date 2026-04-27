@@ -1,8 +1,12 @@
 # Cassette Digitization Workflow
 ### (adapted from [Audio Tape Digitisation Workflow](https://musiikkiarkisto.fi/audio/))
 
-### Allow for 2x to 3x the length of the program!!
-**(i.e., allow *at least* two hours for a one-hour cassette)**
+### 
+
+* **Allow for 2x to 3x the length of the program!!**
+  **(i.e., allow *at least* two hours for a one-hour cassette)**
+* Use good headphones
+* Find a quiet space
 
 ## 1. Inspect for damage
   * Broken shell
